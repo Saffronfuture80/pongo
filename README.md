@@ -36,7 +36,4 @@ spinner mapped to the X axis and one to the Y axis.
 axes, mapping them as either joystick or mouse axes.
 
 
-
-▒█░▒█ █▀▀█ ▀█░█▀ █▀▀ 　 ▒█▀▀▀ █░░█ █▀▀▄ 　 ▄ ▒█▀▀█ 
-▒█▀▀█ █▄▄█ ░█▄█░ █▀▀ 　 ▒█▀▀▀ █░░█ █░░█ 　 ░ ▒█▄▄█ 
-▒█░▒█ ▀░░▀ ░░▀░░ ▀▀▀ 　 ▒█░░░ ░▀▀▀ ▀░░▀ 　 ▀ ▒█░░░
+Ｈａｖｅ Ｆｕｎ ：Ｐ
