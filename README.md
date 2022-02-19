@@ -8,7 +8,7 @@
 ╰╯╰━┻━━━┻╯╱╰┻━━━┻╯╰╯╰┻━━━╯╰╯╱╱╰━━━┻╯╱╰━┻━━━┻━━━╯
 # pongo
 Pong but in 2021
-PONGO by Saffronfuture80#0048
+PONGO by Xyvraaq#0048
 2021
 
 First, you need two players - beware of the ancient curse that afflicts people who try to play
